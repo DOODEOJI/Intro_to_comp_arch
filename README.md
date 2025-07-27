@@ -1,4 +1,4 @@
-# Project INFO
+# Project Info
 
 ## proj1 - Disassembler
 - Goal: Reads a binary file containing RISC-V machine code and **prints the assembly representation of the code**
